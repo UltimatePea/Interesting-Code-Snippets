@@ -1,10 +1,10 @@
 # Interesting-Code-Snippets
 Codes I write randomly
 
-# Haskell
+## Haskell
 
 * [Inductively Defined Types over Natural Numbers](InductivelyDefinedTypesNaturalNumbers.hs)
 
-# Javascript
+## Javascript
 
 * [Procudure Representation of a stack](ProcedureStack.js)
