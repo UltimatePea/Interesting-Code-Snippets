@@ -7,4 +7,4 @@ Codes I write randomly
 
 # Javascript
 
-* [Procudure Representation of a stack] (ProcedureStack.js)
+* [Procudure Representation of a stack](ProcedureStack.js)
