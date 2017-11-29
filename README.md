@@ -8,3 +8,7 @@ Codes I write randomly
 ## Javascript
 
 * [Procudure Representation of a stack](ProcedureStack.js)
+
+# License
+
+All codes in this repo can be used for any purpose, free of charge.
