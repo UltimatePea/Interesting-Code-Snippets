@@ -8,6 +8,7 @@ Codes I write randomly
 ## Javascript
 
 * [Procudure Representation of a stack](ProcedureStack.js)
+* [Factorial in Continuation Passing Style](FactorialCPS.js)
 
 # License
 
