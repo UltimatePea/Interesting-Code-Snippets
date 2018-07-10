@@ -2,6 +2,7 @@ module PrimeFactorization where
 import Data.Maybe
 import Control.Monad.Trans.State
 
+-- primes copied from https://stackoverflow.com/questions/3596502/lazy-list-of-prime-numbers
 primes :: [Integer]
 primes = 2: 3: sieve (tail primes) [5,7..]
  where 
