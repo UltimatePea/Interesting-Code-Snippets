@@ -4,6 +4,7 @@ Codes I write randomly
 ## Haskell
 
 * [Inductively Defined Types over Natural Numbers](InductivelyDefinedTypesNaturalNumbers.hs)
+* [Godel-numbering of Abstract Syntax Trees](GodelNumbering/AST.hs)
 
 ## Javascript
 
