@@ -13,7 +13,7 @@ Codes/Articles I write randomly
 
 ## Articles
 
-* [Remarks on the constructors of indutive families of types](InductivaeFamiliesConstructors.md)
+* [Remarks on the constructors of indutive families of types](InductiveFamiliesConstructors.md)
 
 # License
 
