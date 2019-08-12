@@ -1,5 +1,5 @@
 # Interesting-Code-Snippets
-Codes I write randomly
+Codes/Articles I write randomly
 
 ## Haskell
 
@@ -10,6 +10,10 @@ Codes I write randomly
 
 * [Procudure Representation of a stack](ProcedureStack.js)
 * [Factorial in Continuation Passing Style](FactorialCPS.js)
+
+## Articles
+
+* [Remarks on the constructors of indutive families of types](InductivaeFamiliesConstructors.md)
 
 # License
 
