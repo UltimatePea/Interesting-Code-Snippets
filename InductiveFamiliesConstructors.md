@@ -66,3 +66,5 @@ This is my first draft. I didn't proof read this. I will do the proof read later
 # Update
 
 Inductive families correspond to system of inference rules. (OPLSS 2013 agda 1 at 27:00)
+
+Use of inversion in agda (OPLSS 2013 agda 1 at 59:00)
