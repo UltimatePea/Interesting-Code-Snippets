@@ -70,3 +70,5 @@ Inductive families correspond to system of inference rules. (OPLSS 2013 agda 1 a
 Use of inversion in agda (OPLSS 2013 agda 1 at 59:00)
 
 Dependent pattern matching is the unification of constructors with things you have. (OPLSS 2013 agda 2 at 3:57)
+
+Inversion is the process of defining constructor arguments in terms of other stuff. (OPLSS 2013 agda 2.1 at 8:22)
