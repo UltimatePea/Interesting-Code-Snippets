@@ -74,3 +74,5 @@ Dependent pattern matching is the unification of constructors with things you ha
 Inversion is the process of defining constructor arguments in terms of other stuff. (OPLSS 2013 agda 2.1 at 8:22)
 
 With: In agda, "this is magic, when you do a with, agda takes the context and the goal and replaces all occurances of the term that you are doing the with on (in this case compare k k') with the variable or patterns that you conclude (use) in the cases of the pattern match. So you are wripping out compare k k',  and saying let's replace that with something else, you use rewriting in Coq to accomplish something like this. (OPLSS 2013 agda 2.2 at 5:00)
+
+Inductively defined universe = A type of things + A function that for each thing, gives you an agda type (OPLSS 2013 agda 3.2 at 01:10)
