@@ -80,3 +80,5 @@ Inductively defined universe = A type of things + A function that for each thing
 "Inductive Recursive Universes isolate a set of types" (OPLSS 2013 agda 4.1 at 6:35)
 
 "When you're proving that things are equal, you're proving that things are interchangeable in all contexts" (OPLSS 2013 agda 5.1 21:33)
+
+"Nat cross Nat is equal (in the double equal sense) to Nat cross Nat. This proof of equality is not reflexivity." (OPLSS 2013 agda 5.1 24:18)
