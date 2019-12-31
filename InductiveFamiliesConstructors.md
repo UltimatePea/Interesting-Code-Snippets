@@ -78,3 +78,5 @@ With: In agda, "this is magic, when you do a with, agda takes the context and th
 Inductively defined universe = A type of things + A function that for each thing, gives you an agda type (OPLSS 2013 agda 3.2 at 01:10)
 
 "Inductive Recursive Universes isolate a set of types" (OPLSS 2013 agda 4.1 at 6:35)
+
+"When you're proving that things are equal, you're proving that things are interchangeable in all contexts" (OPLSS 2013 agda 5.1 21:33)
