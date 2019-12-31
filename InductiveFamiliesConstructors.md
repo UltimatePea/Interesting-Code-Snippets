@@ -82,3 +82,5 @@ Inductively defined universe = A type of things + A function that for each thing
 "When you're proving that things are equal, you're proving that things are interchangeable in all contexts" (OPLSS 2013 agda 5.1 21:33)
 
 "Nat cross Nat is equal (in the double equal sense) to Nat cross Nat. This proof of equality is not reflexivity. This is a different way of showing that these types are equal than reflexivity. When you take the swap function and turn it into equality, you are still preserving the fact that it behaves differently than reflexivity. (Computationally relevant proofs of equality) " (OPLSS 2013 agda 5.1 24:18)
+
+"You can think of univalence as adding a new introduction form for equality. " (OPLSS 2013 agda 5.1 27:36) 
