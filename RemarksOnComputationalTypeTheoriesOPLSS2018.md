@@ -2,6 +2,7 @@
 
 1. True by definition vs. true by fact
 
+(Lecture 1 22:00)
 ```
 If (17; "17") (tt) \in Nat
 ```
