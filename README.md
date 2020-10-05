@@ -15,6 +15,7 @@ Codes/Articles I write randomly
 
 * [Remarks on the constructors of indutive families of types](InductiveFamiliesConstructors.md)
 * [Remarks on Computational Type Theories (OPLSS 2018)](RemarksOnComputationalTypeTheoriesOPLSS2018.md)
+* [Remarks on Logical Frameworks (OPLSS 2008)](LF_OPLSS2018.md)
 
 # License
 
